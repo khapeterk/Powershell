@@ -1,9 +1,9 @@
 function SpiritIslandAngular {
-  cd c:\LocalRepo\SpiritIsland\angular
+  Set-Location c:\LocalRepo\SpiritIsland\angular
 }
 
 function FinancialProjectionAngular {
-  cd C:\LocalRepo\FinancialProjection\FinancialProjectionAngular
+  Set-Location C:\LocalRepo\FinancialProjection\FinancialProjectionAngular
 }
 
 function testonce {
